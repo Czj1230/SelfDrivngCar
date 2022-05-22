@@ -1,2 +1,3 @@
 # SelfDrivingCar
-semantic segmentation and cnn network to train a self-driving car
+This is a deeplearning learning group project.
+Our goal is to train a self-driving car by using semantic segmentation and convulotion neural network.
